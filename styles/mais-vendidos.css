@@ -1,0 +1,18 @@
+.mais-vendidos__titulo {
+    background: var(--branco);
+    color: var(--laranja);
+    font-size: 18px;
+    font-weight: 700;
+    padding-top: 1em;
+    padding-bottom: .25em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.mais-vendidos__pagination {
+    display: none;
+}
+
+.mais-vendidos__swiper-wrapper{
+    margin: 1em 0 .75em 0;
+}
